@@ -1,4 +1,5 @@
-[
+JSON.stringify({
+    [
     detail1: {
         title: 'Some title detail 1',
         description: "Some descr on detail 1 Some descr on detail 1 Some descr on detail 1 Some descr on detail 1 Some descr on detail 1 Some descr on detail 1",
@@ -12,3 +13,4 @@
         link: 'https://alekseiturl.github.io/Evclid/'
     }
 ]
+})
