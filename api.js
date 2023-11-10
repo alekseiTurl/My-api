@@ -1,4 +1,4 @@
-const data = {
+[
     detail1: {
         title: 'Some title detail 1',
         description: "Some descr on detail 1 Some descr on detail 1 Some descr on detail 1 Some descr on detail 1 Some descr on detail 1 Some descr on detail 1",
@@ -11,5 +11,4 @@ const data = {
         images: ['https://alekseiturl.github.io/Web-Foundation/img/alextur.webp', 'https://alekseiturl.github.io/Web-Foundation/img/alexicon.webp'],
         link: 'https://alekseiturl.github.io/Evclid/'
     }
-};
-JSON.stringify(data);
+]
